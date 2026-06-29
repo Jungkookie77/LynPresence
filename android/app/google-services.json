@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "396705769949",
+    "project_id": "ruthere-32590",
+    "storage_bucket": "ruthere-32590.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396705769949:android:9b604ed6ec3847ee0b6e34",
+        "android_client_info": {
+          "package_name": "com.ruthere.ruthere"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCNSah37ppOnJCa1s2vUvCrZ8sC8v2GVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
